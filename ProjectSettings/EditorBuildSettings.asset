@@ -9,4 +9,5 @@ EditorBuildSettings:
     path: Assets/Scenes/cidade.unity
     guid: 3644ff63eb91cec4286860b809c96105
   m_configObjects:
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4286123b6840c0d43a4db395da7de0da, type: 2}
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bce3c72baa397414c99fa13f1abd0d97, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c138895af0101ee4293df5a4ee2235c5, type: 2}
