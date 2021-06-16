@@ -4,5 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/cidade.unity
+    guid: 3644ff63eb91cec4286860b809c96105
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bce3c72baa397414c99fa13f1abd0d97, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c138895af0101ee4293df5a4ee2235c5, type: 2}
